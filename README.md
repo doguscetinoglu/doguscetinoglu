@@ -58,7 +58,7 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 50px;">
   <img height="200" src="https://i.hizliresim.com/dikla6j.png"  />
 </div>
 
