@@ -10,7 +10,8 @@
 
 ###
 
-<img align="right" height="250" src="https://hizliresim.com/q9v86yb"  />
+<img align="right" height="250" src="[https://hizliresim.com/q9v86yb](https://i.hizliresim.com/q9v86yb.png)"  />
+
 
 ###
 
