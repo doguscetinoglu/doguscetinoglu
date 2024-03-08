@@ -40,7 +40,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="__Xls" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="130" height="50" alt="discord logo"  />
   </a>
@@ -58,11 +58,7 @@
   </a>
 </div>
 
-<div
-  </div>
-
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img height="200" src="https://i.hizliresim.com/dikla6j.png"  />
 </div>
 
