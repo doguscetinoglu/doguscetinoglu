@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doguscetinoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=doguscetinoglu&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -9,6 +11,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/doguscetinoglu/count.svg?"  />
@@ -40,7 +44,9 @@
 
 ###
 
-<div align="center" style="margin-top: 20px;">
+<br clear="both">
+
+<div align="center">
   <a href="__Xls" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="130" height="50" alt="discord logo"  />
   </a>
@@ -58,7 +64,11 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 50px;">
+###
+
+<br clear="both">
+
+<div align="center">
   <img height="200" src="https://i.hizliresim.com/dikla6j.png"  />
 </div>
 
