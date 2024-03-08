@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.hizliresim.com/q9v86yb.png"  />
+  <img height="200" src="https://i.hizliresim.com/dikla6j.png"  />
 </div>
 
 ###
