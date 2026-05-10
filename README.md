@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Doğuş, and I live in Istanbul. My hunger for learning and constant focus on new technologies continuously drive me to grow. I embrace opportunities to further develop myself and actively seek out new challenges. As someone who enjoys research, problem-solving, and innovating, I aim to pursue a career in the field of software development. To this end, I am currently undergoing training as a Back-End Developer through the Patika Bootcamp program.</h2>
+<h2 align="left">Hi 👋! My name is Doğuş/h2>
 
 ###
 
